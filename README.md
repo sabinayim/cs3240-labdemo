@@ -1,1 +1,1 @@
-# cs3240-labdemo - editing from terminal
+# cs3240-labdemo - editing from github
