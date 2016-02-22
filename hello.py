@@ -2,11 +2,9 @@
 # sjy8hy
 # cs 3240 prelab5
 
-def greeting(msg):
-    print(msg)
+import helper
 
 
-
-greeting("hello")
+helper.greeting("hello")
 
 
