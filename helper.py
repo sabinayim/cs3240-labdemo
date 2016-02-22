@@ -8,3 +8,6 @@ def greeting(msg):
     print(msg)
 
 
+def blah(msg):
+    print(msg)
+
